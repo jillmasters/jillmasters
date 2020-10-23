@@ -4,11 +4,11 @@
 
 
 
-##### 🕵️ I love to solve problems and design beaut apps
+#### 🕵️ I love to solve problems and design beaut apps
 
-##### 🤓 I’m currently working on [Measured](https://github.com/smatthews5/measured) and [Babe](https://github.com/jillmasters/babe)
+#### 🤓 I’m currently working on [Measured](https://github.com/smatthews5/measured) and [Babe](https://github.com/jillmasters/babe)
 
-##### 🌱 I’m loving learning **more React, Firebase & Sass**
+#### 🌱 I’m loving learning **more React, Firebase & Sass**   
 
 
 
@@ -17,11 +17,12 @@
 ✍️ You can find my writing (from pre-coding days) at [https://thankyounext.org/portfolio](https://thankyounext.org/portfolio)
 
 👩‍💻 Or you can snoop my experience at [https://www.linkedin.com/in/jillianchuahmasters/](https://www.linkedin.com/in/jillianchuahmasters/)
-👉 Pronouns: she/her
+
+👉 Pronouns: she/her   
 
 
 
-##### 📫 Drop me a line at **jchuahmasters@gmail.com**
+#### 📫 Drop me a line at **jchuahmasters@gmail.com**   
 
 
 
