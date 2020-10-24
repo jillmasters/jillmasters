@@ -5,11 +5,11 @@
 
 <br />
 
-#### 🕵️ I love to solve problems and design beaut apps
+#### 🕵️ I want to solve problems and design beaut apps
 
 🤓 I’m currently working on [Measured](https://github.com/smatthews5/measured) and [Babe](https://github.com/jillmasters/babe)
 
-🌱 I’m loving learning **more React, Firebase & Sass**   
+🌱 I’m learning **more React, Sass & Firebase**   
 
 ✍️ You can find my writing (from pre-coding days) at [https://thankyounext.org/portfolio](https://thankyounext.org/portfolio)
 
@@ -31,6 +31,5 @@
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  
      <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://www.framer.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+    <a href="https://www.framer.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a>  
 </p>
