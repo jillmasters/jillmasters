@@ -13,11 +13,11 @@
 
 ✍️ You can find my writing (from pre-coding days) at [https://thankyounext.org/portfolio](https://thankyounext.org/portfolio)
 
-👩‍💻 Or you can snoop my experience at [https://www.linkedin.com/in/jillchuahmasters/](https://www.linkedin.com/in/jillianchuahmasters/)
+👩‍💻 Or you can snoop my experience at [https://www.linkedin.com/in/jillchuahmasters/](https://www.linkedin.com/in/jillchuahmasters/)
 <br /><br />
 
 
-<h3 align="left">Keen to learn much more, but right now:</h3>
+<h3 align="left">Learning constantly, but right now:</h3>
 <p align="left"> 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
