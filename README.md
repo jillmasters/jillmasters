@@ -7,7 +7,7 @@
 
 #### 🕵️ I love to solve problems and design beaut apps
 
-🤓 I’m currently working on [Measured](https://github.com/smatthews5/measured) and [Babe](https://github.com/jillmasters/babe)
+🤓 I’m currently working at [Qwilr](https://qwilr.com/) and on [Babe](https://github.com/jillmasters/babe)
 
 🌱 I’m learning **AWS and MobX**   
 
