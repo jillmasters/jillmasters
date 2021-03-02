@@ -1,15 +1,15 @@
 <h1 align="left">Hi, I'm Jill 👋</h1>
 
-<h3 align="left">A full stack developer based in Sydney / Melbourne</h3>
+<h3 align="left">A full stack developer based in Sydney</h3>
 
 
 <br />
 
 #### 🕵️ I love to solve problems and design beaut apps
 
-🤓 I’m currently working at [Qwilr](https://qwilr.com/) and on [Babe](https://github.com/jillmasters/babe)
+🤓 I’m currently working at [Canva](https://canva.com/) and on [Babe](https://github.com/jillmasters/babe)
 
-🌱 I’m learning **AWS and MobX**   
+🌱 I’m learning **MobX**   
 
 ✍️ You can find my writing (from pre-coding days) at [https://thankyounext.org/portfolio](https://thankyounext.org/portfolio)
 
